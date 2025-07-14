@@ -11,6 +11,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "ipympl>=0.9.7",
     "ipywidgets>=8.1.7",
+    "nbstripout>=0.8.1",
     "numpy>=2.2.6",
     "pandas[performance]>=2.3.0",
     "pyarrow>=20.0.0",
